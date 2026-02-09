@@ -25,6 +25,16 @@
 
 ---
 
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/tamás-kucsera
+- Email: kucsitomika@gmail.com
+
+## 🎵 Fun Fact
+Besides programming I enjoy
+- Video editing and content creation 
+- Making music in Ableton Live and FL Studio
+- Playing instruments like piano and kalimba
+- Sharing music and creative projects on YouTube
 
 <!--
 **kucseratamas/kucseratamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
