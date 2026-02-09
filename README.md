@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tamás Kucsera 👋
+
+🎓 Recent graduate | 💻 Developer | 🥽 3D & VR | 🌐 Web & Mobile
+
+## 💡 About Me
+- I'm a **recently graduated developer** passionate about building **interactive 3D, VR, and web-based experiences**.
+- Recently I’ve started exploring mobile application development using React Native.
+
+## 💻 Currently working on
+- A **3D portfolio**
+- Mobile app development as a hobby, mainly using **React Native**
 
 <!--
 **kucseratamas/kucseratamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
